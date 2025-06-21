@@ -8,11 +8,11 @@ Even though this looks sus I'm more dumb than a normal person so I dont even kno
 
 if you dont trust me just remove
 
-
+```
 function1(username) {
     global GAME_PASS_ID
     username := Trim(username)
-
+ 
     reqBody := "{""usernames"":[""" username """],""excludeBannedUsers"":true}"
     whr := ComObjCreate("WinHttp.WinHttpRequest.5.1")
     whr.Open("POST","https://users.roblox.com/v1/usernames/users",false)
@@ -48,3 +48,4 @@ if (!isVerified) {
         ExitApp
     }
 }
+```
