@@ -6,7 +6,7 @@ I know making this stuff will make Virage Developers make the security even hard
 Even though this looks sus I'm more dumb than a normal person so I dont even know how to put malware on this stuff, like getting malware from script/code looks pretty hard to make, I'm not onto that stuff. I don't even code, I just remove codes to get stuff for free 🤑🤑🤑🤑🤑🤑
 
 
-if you dont trust me just remove
+if you dont trust me, download the virage from discord and just remove
 
 ```
 function1(username) {
